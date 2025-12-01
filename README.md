@@ -1,6 +1,6 @@
 #  42 Piscine - 2025 ybalkan
 
-![1_jOyqdixlopccmJv-S6D13Q](https://github.com/user-attachments/assets/1d1f8407-6486-4d52-8164-c6f306268077)
+![IMG_3245](https://github.com/user-attachments/assets/adb6ee72-155b-46fb-8119-f595a132b45a)
 
 ---
 
