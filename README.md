@@ -143,7 +143,7 @@ Feel free to explore, learn from it, or compare it with your own journey.
 
 ---
 
-<h1>How to Push a Project</h1>
+<h1>How to Push a Project ?</h1>
 
 <code> git init </code>
 <br> This command is used to create a new Git repository. It turns your current working directory into a Git repository and sets up all the necessary files for Git to track and manage changes.
